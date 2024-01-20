@@ -1,21 +1,18 @@
 
 Kyrun - RUN TOGETHER
 
-Kyrun is a mobile app designed to help you find compatible jogging partners in your local area. With Kyrun, you can filter runners based on gender, age, location, and running pace to find the perfect jogging partner.
+Kyrun is a mobile app designed to help you find compatible jogging partners in your local area.
 
 Features
 
-Filter Runners
-Use the filter feature to find jogging partners based on your preferences. You can filter runners based on gender, age, location, and running pace.
+Groups
+Once logged in, a user can browse through many groups to find whichever one suits them the best. The user can click on groups, read their information and determine if it's right for them. When a user joins a group, they can post in the group and leave comments on their fellow groupmates' posts. They can also view the bulletin, where group admins can post information for the whole group to see.
 
-Browse Profiles
-Once you've selected your preferences, you can browse through the profiles that match your preferences. Click on the profiles that share your common interests and start building your network.
+Profile Dashboard
+A user can click on their user dashboard and get the information they need all in one place! This includes: their own information, important bulletins from all of their groups, as well have the ability to edit their profile.
 
-SOS Button
-Kyrun includes an SOS button feature that you can use in case of an imminent threat during a jog with the person you matched with. This feature provides a sense of security during your jogs.
-
-Chat Feature
-Kyrun offers a convenient chat feature that allows you to communicate directly with your matched profiles. This way, you can easily plan jogging sessions, ask questions, and get to know your jogging partners better before you meet in person.
+Running Routes
+Unsure of where to start your running journey? No worries! Kyrun's got you covered with route suggestions for you and all your new running mates. There's even a link that gives you directions to the routes, right from your current location!
 
 
 USER STORIES
